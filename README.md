@@ -5,4 +5,4 @@
 - 🌱 Currently, I'm diving deep into React.js and exploring the fascinating world of front-end technologies and frameworks.
 
 ## How to Reach Me
-- 📫 You can reach me on Instagram [@remcrw](https://www.instagram.com/remcrw/) or visit my personal website [remcrw.me](https://remcrw.me) to learn more about me and my projects.
+- 📫 You can reach me on [LinkedIn](https://www.LinkedIn/in/remel-s-crowe/) or visit my personal website [remcrw.me](https://remcrw.me) to learn more about me.
